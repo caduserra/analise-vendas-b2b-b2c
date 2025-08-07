@@ -1,4 +1,3 @@
-
 # Projeto de Análise de Vendas - B2B vs B2C
 
 Este projeto simula uma análise de receita média por tipo de cliente (B2B e B2C) utilizando dados gerados artificialmente.
@@ -15,20 +14,24 @@ Comparar o comportamento de receita entre os modelos B2B e B2C a partir de uma b
 
 ## Arquivos
 
-- `vendas.csv`: base de dados simulada
-- `analise_vendas.py`: script de análise e geração de gráfico
-- `grafico_receita_media.png`: gráfico gerado pelo script
-- `powerbi_fake_receita_media.png`: visualização estilo Power BI
+- `vendas.csv`: base de dados simulada  
+- `analise_vendas.py`: script de análise e geração de gráfico  
+- `grafico_receita_media.png`: gráfico gerado pelo script  
+- `powerbi_receita_media.png`: visualização estilo Power BI
 
 ## Como executar
 
 ```bash
 pip install pandas matplotlib
 python analise_vendas.py
-```
 
-## Próximos passos
 
-- Implementar análises sazonais por período
-- Aplicar clusterização para perfis de clientes
-- Conectar a dashboards interativos reais
+## Sobre o Autor
+
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por dados e Business Intelligence, com conhecimento em B2B e B2C. Estou me organizando para a preparação do exame CEA, buscando aprimorar ainda mais minhas habilidades para atuar no mercado financeiro com foco e dedicação.
+
+Conecte-se comigo no LinkedIn:  
+[https://www.linkedin.com/in/cadu-serra](https://www.linkedin.com/in/cadu-serra)
+
+Confira meu portfólio com projetos e experiências no GitHub:  
+[https://github.com/cadu-serra](https://github.com/cadu-serra)
