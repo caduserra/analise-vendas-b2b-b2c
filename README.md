@@ -19,12 +19,6 @@ Comparar o comportamento de receita entre os modelos B2B e B2C a partir de uma b
 - `grafico_receita_media.png`: gráfico gerado pelo script  
 - `powerbi_receita_media.png`: visualização estilo Power BI
 
-## Como executar
-
-```bash
-pip install pandas matplotlib
-python analise_vendas.py
-
 ## Sobre o Autor
 
 Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por dados e Business Intelligence, com conhecimento em B2B e B2C. Estou me organizando para a preparação do exame CEA, buscando aprimorar ainda mais minhas habilidades para atuar no mercado financeiro com foco e dedicação.
@@ -36,3 +30,10 @@ Confira meu portfólio com projetos e experiências no GitHub:
 [https://github.com/cadu-serra](https://github.com/cadu-serra)
 
  
+
+## Como executar
+
+```bash
+pip install pandas matplotlib
+python analise_vendas.py
+
